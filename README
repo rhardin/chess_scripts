@@ -1,1 +1,0 @@
-/twic contains two scripts. One will compose one big PGN file suitable for import into databases (such as [Scid](http://scid.sourceforge.net/)) and another which will download zip files from the [TWIC website](http://www.chess.co.uk/twic/twic.html).
