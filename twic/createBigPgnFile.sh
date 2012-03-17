@@ -1,4 +1,8 @@
 #!/bin/bash
+echo "archive files..."
+for file in `echo *.zip`; do
+    cp ${file} archive/${file}
+done
 
 echo "unzipping files..."
 for file in `echo *.zip*`; do
